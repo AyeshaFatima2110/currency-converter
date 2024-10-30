@@ -7,7 +7,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #c3e9c6;
+  background-color: #a9dfae;
 }
 .container{
   background-color: #E0FBE2;
@@ -53,6 +53,10 @@ form input{
   border: 1px solid lightgrey;
   border-radius: 5px;
 }
+select{
+  cursor: pointer;
+}
+
 .base-currency{
   margin-top: 20px;
   font-size: 12px;
