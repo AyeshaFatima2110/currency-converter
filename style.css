@@ -59,7 +59,8 @@ form input{
 }
 .conversion-result{
   margin-top: 10px;
-  font-size: 12px;
+  font-size: 14px;
+  font-weight: bold;
 
 }
 
@@ -72,3 +73,7 @@ button{
   padding: 10px 0 10px 0;
   cursor: pointer;
 }
+
+button:hover{
+  background-color: #93c2b4;
+ }
